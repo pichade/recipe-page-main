@@ -1,4 +1,4 @@
-# Frontend Mentor - Sunnyside agency landing page solution
+# Frontend Mentor - Recipe page solution
 
 This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm/hub). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -20,7 +20,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: 
+- Live Site URL: https://pichade.github.io/recipe-page-main/
 
 
 ## Author
