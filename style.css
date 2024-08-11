@@ -171,6 +171,7 @@ h3 {
     border-radius: 50%;
     position: relative;
     top: -0.2rem;
+    margin-inline-end: 1.5rem;
 }
 
 /* CONTAINER */
@@ -266,7 +267,7 @@ header p {
 }
 
 .nutrition-list li span:first-child {
-    padding-inline-start: 2rem;
+    padding-inline-start: 0.8rem;
 }
 
 .nutrition-list li:not(:last-child) {
